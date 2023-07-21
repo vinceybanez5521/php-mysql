@@ -1,0 +1,9 @@
+body::before {
+    content: "";
+    display: block;
+    padding-top: 70px;
+}
+
+tbody tr td {
+    vertical-align: middle;
+}
